@@ -9,5 +9,9 @@
     <div class="col-sm link-wrapper">
         <a class="display-4" href= "https://youtube.com/LiamOsler">youtube channel</a>
     </div>
+    <div class="col-sm link-wrapper">
+        <a class="display-4" href= "https://liamosler.itch.io">itch.io profile</a>
+    </div>
+    
 </div>  
 
