@@ -7,9 +7,6 @@
         <a href = "http://www.liamosler.ca" class="display-4">personal website</a>
     </div>
     <div class="col-sm link-wrapper">
-        <a class="display-4" href= "https://github.com/LiamOsler">github profile</a>
-    </div>
-    <div class="col-sm link-wrapper">
         <a class="display-4" href= "https://youtube.com/LiamOsler">youtube channel</a>
     </div>
 </div>  
