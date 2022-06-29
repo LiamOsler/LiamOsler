@@ -1,4 +1,5 @@
 ### Hello World 👋
+<hr>
 <div class="row">
     <div class="col-12">
         <p class="display-3">find me online:</p>
@@ -17,13 +18,27 @@
 <hr>
 <div class="row">
     <div class="col-12">
-        <p class="display-3">Languages that I'm fond of using:</p>
+        <p class="display-3">Programing languages that I'm most fond of:</p>
         <ul>
             <li>Javascript</li>
             <li>PHP</li>
             <li>C/C++</li>
             <li>Java</li>
             <li>R</li>
+        </ul>
+    </div>
+    
+    <hr>
+    
+    <div class="col-12">
+        <p class="display-3">Some of my many personal interests include:</p>
+        <ul>
+            <li>3D Modelling</li>
+            <li>Free and open source software (FOSS)</li>
+            <li>Open source intelligence (OSINT)</li>
+            <li>Amateur radio (HAM)</li>
+            <li>Military and civil aviation</li>
+            <li>Domestic and international politics</li>
         </ul>
     </div>
 </div>
