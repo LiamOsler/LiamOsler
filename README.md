@@ -12,5 +12,17 @@
     <div class="col-sm link-wrapper">
         <a class="display-4" href= "https://liamosler.itch.io">itch.io profile</a>
     </div>
-    
 </div>  
+
+<div class="row">
+    <div class="col-12">
+        <p class="display-3">Languages that I'm fond of using:</p>
+        <ul>
+            <li>Javascript</li>
+            <li>PHP</li>
+            <li>C/C++</li>
+            <li>Java</li>
+            <li>R</li>
+        </ul>
+    </div>
+</div>
