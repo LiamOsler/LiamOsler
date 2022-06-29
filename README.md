@@ -27,9 +27,11 @@
             <li>R</li>
         </ul>
     </div>
-    
-    <hr>
-    
+</div>
+
+<hr>
+
+<div class="row">
     <div class="col-12">
         <p class="display-3">Some of my many personal interests include:</p>
         <ul>
@@ -40,5 +42,6 @@
             <li>Military and civil aviation</li>
             <li>Domestic and international politics</li>
         </ul>
+        </div>
     </div>
 </div>
