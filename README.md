@@ -29,10 +29,10 @@
         <p class="display-3">Programing languages that I'm most fond of:</p>
         <ul>
             <li>Javascript</li>
+            <li>R</li>
             <li>PHP</li>
             <li>C/C++</li>
             <li>Java</li>
-            <li>R</li>
         </ul>
     </div>
 </div>
