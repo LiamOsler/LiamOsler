@@ -46,7 +46,7 @@
             <li>PHP</li>
             <li>SQL</li>
             <li>C/C++</li>
-            <li>Java/Kotlin</li>
+            <li>Java/Kotlin:</li>
                 <ul>
                     <li>JUnit</li>
                 </ul>
