@@ -29,6 +29,10 @@
         <p class="display-3">Programing languages that I'm most fond of:</p>
         <ul>
             <li>Javascript</li>
+                <ul>
+                    <li>Node.js</li>
+                    <li>EJS</li>
+                </ul>
             <li>R</li>
             <li>PHP</li>
             <li>C/C++</li>
@@ -53,3 +57,7 @@
         </div>
     </div>
 </div>
+
+<hr>
+
+Currently learning:
