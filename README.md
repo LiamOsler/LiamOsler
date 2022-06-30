@@ -2,7 +2,7 @@
 <hr>
 <div class="row">
     <div class="col-12">
-        <p class="display-3">find me online:</p>
+        <p class="display-3">Find me online:</p>
     </div>
     <ul>
         <li>
