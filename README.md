@@ -65,6 +65,7 @@
             <li>Free and open source software (FOSS)</li>
             <li>Open source intelligence (OSINT)</li>
             <li>Amateur radio (HAM)</li>
+            <li>Geographic Information Systems (GIS)</li>
             <li>Military and civil aviation</li>
             <li>Domestic and international politics</li>
         </ul>
