@@ -50,6 +50,7 @@
         <p class="display-3">I'm currently learning:</p>
         <ul>
             <li>React/JSX</li>
+            <li>Typescript</li>
             <li>MongoDB</li>
         </ul>
     </div>
