@@ -31,16 +31,29 @@
             <li>Javascript</li>
                 <ul>
                     <li>Node.js</li>
+                    <li>Express.js</li>
                     <li>EJS</li>
                 </ul>
             <li>R</li>
             <li>PHP</li>
+            <li>SQL</li>
             <li>C/C++</li>
-            <li>Java</li>
+            <li>Java/Kotlin</li>
         </ul>
     </div>
 </div>
 
+<hr>
+
+<div class="row">
+    <div class="col-12">
+        <p class="display-3">I'm currently learning:</p>
+        <ul>
+            <li>React/JSX</li>
+            <li>MongoDB</li>
+        </ul>
+    </div>
+</div>
 <hr>
 
 <div class="row">
@@ -58,6 +71,4 @@
     </div>
 </div>
 
-<hr>
 
-Currently learning:
