@@ -28,17 +28,28 @@
     <div class="col-12">
         <p class="display-3">Programing languages and libraries that I'm most fond of:</p>
         <ul>
-            <li>Javascript</li>
+            <li>Javascript:</li>
                 <ul>
                     <li>Node.js</li>
                     <li>Express.js</li>
                     <li>EJS</li>
+                    <li>Axios</li>
                 </ul>
-            <li>R</li>
+            <li>R:</li>
+                   <ul>
+                    <li>knitr</li>
+                    <li>rvest</li>
+                    <li>ggplot2</li>
+                    <li>raster</li>
+                    <li>sf</li>
+                </ul>
             <li>PHP</li>
             <li>SQL</li>
             <li>C/C++</li>
             <li>Java/Kotlin</li>
+                <ul>
+                    <li>JUnit</li>
+                </ul>
         </ul>
     </div>
 </div>
@@ -49,8 +60,9 @@
     <div class="col-12">
         <p class="display-3">I'm currently learning:</p>
         <ul>
-            <li>React/JSX</li>
             <li>Typescript</li>
+            <li>React/JSX</li>
+            <li>Vue</li>
             <li>MongoDB</li>
         </ul>
     </div>
@@ -61,6 +73,7 @@
     <div class="col-12">
         <p class="display-3">Some of my many personal interests include:</p>
         <ul>
+            <li>Web Stacks</li>
             <li>3D Modelling</li>
             <li>Free and open source software (FOSS)</li>
             <li>Open source intelligence (OSINT)</li>
