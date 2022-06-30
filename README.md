@@ -30,6 +30,7 @@
         <ul>
             <li>Javascript:</li>
                 <ul>
+                    <li>ThreeJS</li>
                     <li>Node.js</li>
                     <li>Express.js</li>
                     <li>EJS</li>
@@ -37,16 +38,19 @@
                 </ul>
             <li>R:</li>
                    <ul>
-                    <li>knitr</li>
-                    <li>rvest</li>
-                    <li>ggplot2</li>
-                    <li>raster</li>
-                    <li>sf</li>
-                </ul>
+                        <li>knitr</li>
+                        <li>rvest</li>
+                        <li>ggplot2</li>
+                        <li>raster</li>
+                        <li>sf</li>
+                    </ul>
             <li>PHP</li>
             <li>SQL</li>
             <li>C/C++</li>
-            <li>Java/Kotlin:</li>
+                   <ul>
+                        <li>OpenGL</li>
+                    </ul>
+            <li>Java:</li>
                 <ul>
                     <li>JUnit</li>
                 </ul>
