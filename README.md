@@ -30,15 +30,19 @@
         <div class="row">
             <div class="col-12">
                 <p class="display-3">Programing languages and libraries that I'm most fond of:</p>
+                <td>
+                    <ul>
+                        <li>Javascript:</li>
+                            <ul>
+                                <li>ThreeJS</li>
+                                <li>Node.js</li>
+                                <li>Express.js</li>
+                                <li>EJS</li>
+                                <li>Axios</li>
+                            </ul>
+                    </ul>
+                </td>
                 <ul>
-                    <li>Javascript:</li>
-                        <ul>
-                            <li>ThreeJS</li>
-                            <li>Node.js</li>
-                            <li>Express.js</li>
-                            <li>EJS</li>
-                            <li>Axios</li>
-                        </ul>
                     <li>R:</li>
                            <ul>
                                 <li>knitr</li>
