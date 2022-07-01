@@ -44,9 +44,8 @@
                 <ul>
                     <li>HTML</li>
                     <li>CSS</li>
-                    <li>Canvas</li>
                     <li>PHP</li>
-                    <li>SQL</li>
+                    <li>MySQL</li>
                 </ul>
             </ul>
         </td>
