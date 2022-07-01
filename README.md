@@ -63,10 +63,9 @@
   </tbody>
 </table>
 
-<hr>
 <div class="row">
     <div class="col-12">
-        <p class="display-3">I'm currently learning:</p>
+        <h2>I'm currently learning:</h2>
         <ul>
             <li>Typescript</li>
             <li>React/JSX</li>
