@@ -1,4 +1,4 @@
-### Hello World 👋
+<h1>Hello World 👋</h1>
 <hr>
 <div class="row">
     <div class="col-12">
@@ -24,7 +24,7 @@
 </div>
 
 <hr>
-<h2>Programming and scripting languages I use frequently
+<h2>Programming/scripting/markup languages and libraries I use frequently include:</h2>
 <table class="">
   <tbody>
     <tr>
@@ -54,9 +54,11 @@
         </td>
         <td>
             <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Canvas</li>
                 <li>PHP</li>
                 <li>SQL</li>
-                <li>C/C++</li>
             </ul>
         </td>
     </tr>
