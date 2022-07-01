@@ -1,5 +1,4 @@
 <h1>Hello World 👋</h1>
-<hr>
 <div class="row">
     <div class="col-12">
         <p class="display-3">Find me online:</p>
@@ -23,7 +22,6 @@
     </ul>
 </div>
 
-<hr>
 <h2>Programming/scripting/markup languages and libraries I use frequently include:</h2>
 <table class="">
   <tbody>
