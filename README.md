@@ -42,8 +42,10 @@
                             </ul>
                     </ul>
                 </td>
-                <ul>
-                    <li>R:</li>
+                
+                <td>
+                    <ul>
+                        <li>R:</li>
                            <ul>
                                 <li>knitr</li>
                                 <li>rvest</li>
@@ -51,6 +53,8 @@
                                 <li>raster</li>
                                 <li>sf</li>
                             </ul>
+                    </ul>
+                </td>
                     <li>PHP</li>
                     <li>SQL</li>
                     <li>C/C++</li>
