@@ -24,8 +24,7 @@
 </div>
 
 <hr>
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
+<h2>Programming and scripting languages I use frequently
 <table class="">
   <tbody>
     <tr>
