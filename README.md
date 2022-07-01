@@ -39,6 +39,18 @@
             </ul>  
         </td>
         <td>
+          <ul>
+            <li>Web Stack:</li>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Canvas</li>
+                    <li>PHP</li>
+                    <li>SQL</li>
+                </ul>
+            </ul>
+        </td>
+        <td>
             <ul>
             <li>R:</li>
                 <ul>
@@ -50,15 +62,7 @@
                 </ul>
             </ul> 
         </td>
-        <td>
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Canvas</li>
-                <li>PHP</li>
-                <li>SQL</li>
-            </ul>
-        </td>
+
     </tr>
   </tbody>
 </table>
