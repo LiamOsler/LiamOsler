@@ -77,14 +77,13 @@
     <div class="col-12">
         <p class="display-3">Some of my many personal interests include:</p>
         <ul>
-            <li>Web Stacks</li>
+            <li>Everything Web</li>
             <li>3D Modelling</li>
             <li>Free and open source software (FOSS)</li>
             <li>Open source intelligence (OSINT)</li>
             <li>Amateur radio (HAM)</li>
             <li>Geographic Information Systems (GIS)</li>
             <li>Military and civil aviation</li>
-            <li>Domestic and international politics</li>
         </ul>
         </div>
     </div>
