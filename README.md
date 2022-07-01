@@ -24,39 +24,44 @@
 </div>  
 
 <hr>
-<div class="row">
-    <div class="col-12">
-        <p class="display-3">Programing languages and libraries that I'm most fond of:</p>
-        <ul>
-            <li>Javascript:</li>
+
+<table>
+    <tr>
+        <div class="row">
+            <div class="col-12">
+                <p class="display-3">Programing languages and libraries that I'm most fond of:</p>
                 <ul>
-                    <li>ThreeJS</li>
-                    <li>Node.js</li>
-                    <li>Express.js</li>
-                    <li>EJS</li>
-                    <li>Axios</li>
+                    <li>Javascript:</li>
+                        <ul>
+                            <li>ThreeJS</li>
+                            <li>Node.js</li>
+                            <li>Express.js</li>
+                            <li>EJS</li>
+                            <li>Axios</li>
+                        </ul>
+                    <li>R:</li>
+                           <ul>
+                                <li>knitr</li>
+                                <li>rvest</li>
+                                <li>ggplot2</li>
+                                <li>raster</li>
+                                <li>sf</li>
+                            </ul>
+                    <li>PHP</li>
+                    <li>SQL</li>
+                    <li>C/C++</li>
+                           <ul>
+                                <li>OpenGL</li>
+                            </ul>
+                    <li>Java:</li>
+                        <ul>
+                            <li>JUnit</li>
+                        </ul>
                 </ul>
-            <li>R:</li>
-                   <ul>
-                        <li>knitr</li>
-                        <li>rvest</li>
-                        <li>ggplot2</li>
-                        <li>raster</li>
-                        <li>sf</li>
-                    </ul>
-            <li>PHP</li>
-            <li>SQL</li>
-            <li>C/C++</li>
-                   <ul>
-                        <li>OpenGL</li>
-                    </ul>
-            <li>Java:</li>
-                <ul>
-                    <li>JUnit</li>
-                </ul>
-        </ul>
-    </div>
-</div>
+            </div>
+        </div>
+    </tr>
+</table>
 
 <hr>
 
