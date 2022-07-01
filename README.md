@@ -62,7 +62,6 @@
                 </ul>
             </ul> 
         </td>
-
     </tr>
   </tbody>
 </table>
