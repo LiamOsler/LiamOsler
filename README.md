@@ -56,7 +56,6 @@
                     <li>rvest</li>
                     <li>ggplot2</li>
                     <li>raster</li>
-                    <li>sf</li>
                 </ul>
             </ul> 
         </td>
