@@ -22,7 +22,7 @@
     </ul>
 </div>
 
-<h2>Programming/scripting/markup languages and libraries I use frequently include:</h2>
+<h2>Some of the languages and libraries I use frequently include:</h2>
 <table class="">
   <tbody>
     <tr>
