@@ -33,11 +33,9 @@
                     <li>ThreeJS</li>
                     <li>Node.js</li>
                 </ul>
-            <li>R</li>
             <li>PHP</li>
             <li>SQL</li>
-            <li>C++</li>
-            <li>Java</li>
+            <li>R</li>
             <li>English/French/Italian/Spanish/Latin</li>
         </ul>
     </div>
