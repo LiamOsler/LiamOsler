@@ -26,7 +26,7 @@
 <hr>
 <div class="row">
     <div class="col-12">
-        <p class="display-3">Languages and libraries that I'm most fond of:</p>
+        <p class="display-3">I'm fond of:</p>
         <ul>
             <li>Javascript:</li>
                 <ul>
@@ -46,16 +46,9 @@
                     </ul>
             <li>PHP</li>
             <li>SQL</li>
-            <li>C/C++</li>
-                   <ul>
-                        <li>OpenGL</li>
-                    </ul>
-            <li>Java:</li>
-                <ul>
-                    <li>JUnit</li>
-                </ul>
+            <li>C++</li>
+            <li>Java</li>
             <li>English/French/Italian/Spanish/Latin</li>
-            <li>Alexandria</li>
         </ul>
     </div>
 </div>
