@@ -28,19 +28,12 @@
     <div class="col-12">
         <p class="display-3">I'm fond of:</p>
         <ul>
-            <li>Javascript:</li>
+            <li>Javascript</li>
                 <ul>
                     <li>ThreeJS</li>
                     <li>Node.js</li>
                 </ul>
-            <li>R:</li>
-                   <ul>
-                        <li>knitr</li>
-                        <li>rvest</li>
-                        <li>ggplot2</li>
-                        <li>raster</li>
-                        <li>sf</li>
-                    </ul>
+            <li>R</li>
             <li>PHP</li>
             <li>SQL</li>
             <li>C++</li>
