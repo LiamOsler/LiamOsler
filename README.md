@@ -32,9 +32,6 @@
                 <ul>
                     <li>ThreeJS</li>
                     <li>Node.js</li>
-                    <li>Express.js</li>
-                    <li>EJS</li>
-                    <li>Axios</li>
                 </ul>
             <li>R:</li>
                    <ul>
