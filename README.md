@@ -47,9 +47,7 @@
     <div class="col-12">
         <p class="display-3">I'm currently learning:</p>
         <ul>
-            <li>Typescript</li>
             <li>React/JSX</li>
-            <li>Vue</li>
             <li>MongoDB</li>
         </ul>
     </div>
