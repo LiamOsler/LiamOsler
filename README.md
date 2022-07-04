@@ -28,11 +28,7 @@
     <div class="col-12">
         <p class="display-3">I'm fond of:</p>
         <ul>
-            <li>Javascript</li>
-                <ul>
-                    <li>ThreeJS</li>
-                    <li>Node.js</li>
-                </ul>
+            <li>Javascript/Node.js</li>
             <li>PHP</li>
             <li>SQL</li>
             <li>R</li>
