@@ -5,7 +5,6 @@
         <p class="display-3">Find me online:</p>
     </div>
     <ul>
-    https://gitlab.com/LiamOsler
         <li>
             <div class="col-sm link-wrapper">
                 <a href = "http://www.liamosler.ca" class="display-4">website</a>
