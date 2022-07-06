@@ -17,7 +17,7 @@
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a href = "https://gitlab.com/LiamOsler" class="display-4">GitLab</a>
+                <a href = "https://gitlab.com/LiamOsler" class="display-4">gitlab</a>
             </div>
         </li>
         <li>
