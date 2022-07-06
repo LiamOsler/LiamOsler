@@ -65,7 +65,7 @@
         <p class="display-3">Some of my many personal interests include:</p>
         <ul>
             <li>Everything web</li>
-            <li>3D Modelling</li>
+            <li>3D modelling</li>
             <li>Amateur radio </li>
             <li>GIS</li>
         </ul>
