@@ -5,19 +5,30 @@
         <p class="display-3">Find me online:</p>
     </div>
     <ul>
+    https://gitlab.com/LiamOsler
         <li>
             <div class="col-sm link-wrapper">
-                <a href = "http://www.liamosler.ca" class="display-4">personal website</a>
+                <a href = "http://www.liamosler.ca" class="display-4">website</a>
             </div>
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a class="display-4" href= "https://youtube.com/LiamOsler">youtube channel</a>
+                <a href = "https://liamosler.github.io/" class="display-4">github.io</a>
             </div>
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a class="display-4" href= "https://liamosler.itch.io">itch.io profile</a>
+                <a href = "https://gitlab.com/LiamOsler" class="display-4">GitLab</a>
+            </div>
+        </li>
+        <li>
+            <div class="col-sm link-wrapper">
+                <a class="display-4" href= "https://youtube.com/LiamOsler">youtube</a>
+            </div>
+        </li>
+        <li>
+            <div class="col-sm link-wrapper">
+                <a class="display-4" href= "https://liamosler.itch.io">itch.io</a>
             </div>
         </li>
     </ul>
