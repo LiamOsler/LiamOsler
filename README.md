@@ -22,7 +22,7 @@
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a class="display-4" href= "https://youtube.com/LiamOsler">youtube</a>
+                <a class="display-4" href= "https://www.youtube.com/channel/UCHVkmndMDz1nK-IqAjfozbA">youtube</a>
             </div>
         </li>
         <li>
