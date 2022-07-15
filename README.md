@@ -30,6 +30,11 @@
                 <a class="display-4" href= "https://liamosler.itch.io">itch.io</a>
             </div>
         </li>
+        <li>
+            <div class="col-sm link-wrapper">
+                <a class="display-4" href= "https://www.freecodecamp.org/LiamOsler">freecodecamp.org</a>
+            </div>
+        </li>
     </ul>
 </div>  
 
