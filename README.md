@@ -20,7 +20,6 @@
                 <a href = "https://codepen.io/liamosler" class="display-4">codepen</a>
             </div>
         </li>
-
         <li>
             <div class="col-sm link-wrapper">
                 <a class="display-4" href= "https://www.youtube.com/channel/UCHVkmndMDz1nK-IqAjfozbA">youtube</a>
@@ -36,7 +35,7 @@
                 <a href = "https://gitlab.com/LiamOsler" class="display-4">gitlab</a>
             </div>
         </li>
-                <li>
+        <li>
             <div class="col-sm link-wrapper">
                 <a class="display-4" href= "https://www.freecodecamp.org/LiamOsler">freecodecamp</a>
             </div>
