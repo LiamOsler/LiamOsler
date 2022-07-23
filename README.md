@@ -12,7 +12,7 @@
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a href = "https://medium.com/@liam.osler" class="display-4">medium.com</a>
+                <a href = "https://medium.com/@liam.osler" class="display-4">medium</a>
             </div>
         </li>
         <li>
@@ -22,7 +22,7 @@
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a class="display-4" href= "https://liamosler.itch.io">itch.io</a>
+                <a class="display-4" href= "https://liamosler.itch.io">itch</a>
             </div>
         </li>
         <li>
@@ -32,7 +32,7 @@
         </li>
                 <li>
             <div class="col-sm link-wrapper">
-                <a class="display-4" href= "https://www.freecodecamp.org/LiamOsler">freecodecamp.org</a>
+                <a class="display-4" href= "https://www.freecodecamp.org/LiamOsler">freecodecamp</a>
             </div>
         </li>
     </ul>
