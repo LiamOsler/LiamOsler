@@ -7,12 +7,12 @@
     <ul>
         <li>
             <div class="col-sm link-wrapper">
-                <a href = "http://www.liamosler.ca" class="display-4">website</a>
+                <a href = "http://www.liamosler.ca" class="display-4">personal website</a>
             </div>
         </li>
         <li>
             <div class="col-sm link-wrapper">
-                <a href = "https://medium.com/@liam.osler" class="display-4">Medium</a>
+                <a href = "https://medium.com/@liam.osler" class="display-4">medium.com</a>
             </div>
         </li>
         <li>
